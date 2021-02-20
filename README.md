@@ -1,4 +1,6 @@
-# English-tokipona translator on Google Colaboratory
+# english-tokipona-translator
+
+English-tokipona translator on Google Colaboratory
 
 ### Library
 - Tatoeba Tools: https://github.com/LBeaudoux/tatoebatools
