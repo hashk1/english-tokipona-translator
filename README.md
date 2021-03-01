@@ -8,7 +8,6 @@ English-TokiPona translator on Google Colaboratory
 
 ### Data
 - Tatoeba: https://tatoeba.org
-- Use English to tokipona translation data
 - License of Data: CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
 
 ### License
